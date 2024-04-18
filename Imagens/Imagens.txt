@@ -1,0 +1,16 @@
+<head>
+<main>
+<nav>
+<imag>
+<h1>
+<h2>
+<p>
+<a>
+<footer>
+<ul>
+<li>
+<form>
+<label>
+<input>
+<select>
+<button>
